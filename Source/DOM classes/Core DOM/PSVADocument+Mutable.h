@@ -1,6 +1,6 @@
-#import "Document.h"
+#import "PSVADocument.h"
 
-@interface Document ()
+@interface PSVADocument ()
 
 @property(nonatomic,strong,readwrite) Element*          documentElement;
 

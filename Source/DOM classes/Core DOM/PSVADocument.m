@@ -1,5 +1,5 @@
-#import "Document.h"
-#import "Document+Mutable.h"
+#import "PSVADocument.h"
+#import "PSVADocument+Mutable.h"
 
 #import "DOMHelperUtilities.h"
 
@@ -7,7 +7,7 @@
 
 #import "SVGKDefine_Private.h"
 
-@implementation Document
+@implementation PSVADocument
 
 @synthesize doctype;
 @synthesize implementation;
