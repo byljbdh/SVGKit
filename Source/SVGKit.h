@@ -51,7 +51,7 @@ FOUNDATION_EXPORT const unsigned char SVGKitFramework_VersionString[];
 #import "CSSValueList.h"
 #import "CSSValue_ForSubclasses.h"
 #import "CSSValue.h"
-#import "Document+Mutable.h"
+#import "PSVADocument+Mutable.h"
 #import "PSVADocument.h"
 #import "DocumentCSS.h"
 #import "DocumentStyle.h"
